@@ -1,0 +1,10 @@
+date,eshop,price,name
+2018-09-02,Kolobky.cz,12900 ,Koloběžka Morxes Sport
+2018-09-02,Kolobky.cz,15490 ,Koloběžka Kickbike Race MAX 28
+2018-09-02,Kolobky.cz,16900 ,Koloběžka Morxes Imola
+2018-09-02,Kolobky.cz,11990 ,Koloběžka Yedoo Trexx
+name,date,eshop,price
+Koloběžka Morxes Sport,2018-09-02,Kolobky.cz,12900 
+Koloběžka Morxes Imola,2018-09-02,Kolobky.cz,16900 
+Koloběžka Kickbike Race MAX 28,2018-09-02,Kolobky.cz,15490 
+Koloběžka Yedoo Trexx,2018-09-02,Kolobky.cz,11990 
